@@ -1,0 +1,13 @@
+.Location {
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    border-radius: 10px;
+    border-right: solid 20px #8f5b52;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: justify;
+    box-shadow: 2px 4px 8px;
+  }
+  h1{
+    text-decoration: underline;
+  }
